@@ -49,8 +49,11 @@
             margin: 10px;
         }
         .main h3{
-            padding: 30px;
+            padding: 20px;
         }
+.main p{
+	padding:10px;
+}
 
         .pictorial-news-section{
             height: 400px;
