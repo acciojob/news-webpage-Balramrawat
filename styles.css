@@ -14,14 +14,14 @@
             justify-content: center;
         }
         .header{
-            height: 100px;
+            height: 50px;
             width: 100vw;
             background-color: black;
             color: white;
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 2rem;
+            font-size: 1rem;
         }
 
         .latest-news-section{
@@ -30,7 +30,7 @@
             background-color: white;
             padding: 20px;
             border-radius: 10px;
-            margin: 20px;
+            margin: 10px;
         }
         .latest-news-section h3{
             text-align: center;
@@ -58,7 +58,7 @@
             background-color: white;
             /* display: flex; */
             border-radius: 10px;
-            margin: 20px;
+            margin: 10px;
         }
        #head{
         text-align: center;
